@@ -24,4 +24,4 @@ A Python-based implementation of the classic English Peg Solitaire game featurin
 ├── Peg_Solitaire.py   # Main entry point and game loop
 ├── Gui.py             # Board rendering, UI elements, and color states
 ├── Classes.py         # Reusable UI components (Button class)
-└── test_board.py      # Unit tests for board configuration and logic
+└── UnitTest.py      # Unit tests for board configuration and logic
