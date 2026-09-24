@@ -6,6 +6,8 @@ Your customer asks you to develop the software that allows to play the Peg Solit
 A Python-based implementation of the classic English Peg Solitaire game featuring a custom graphical user interface and interactive customization options.
 
 ---
+# To use Program 
+ Use command pip install pygame
 
 ## 🛠️ Project Decisions & Technical Stack
 
