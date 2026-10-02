@@ -29,8 +29,6 @@ while True:
         # Pass event to GUI button click handler
         Gui.handle_event(event)
 
-
-
     # Render board and UI elements
     Gui.draw_board(screen)
     Gui.draw_ui(screen, mouse_pos)
